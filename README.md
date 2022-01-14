@@ -20,4 +20,6 @@ Oh, why ask? The app is a VPN to keep your computer safe from viruses
 3. Lost signal even if you have signal
 4. No access to block (This happens if you dont give the person named SecurityVPN administrator)
 5. Uninstallable (IDK)
-WIP
+
+## End
+The repository was made as the Node Unblocker Website.
