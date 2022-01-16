@@ -22,4 +22,4 @@ Oh, why ask? The app is a VPN to keep your computer safe from viruses
 5. Uninstallable (IDK)
 
 ## End
-The repository was made as the Node Unblocker Website.
+The repository was made as the DownloadMe website.
